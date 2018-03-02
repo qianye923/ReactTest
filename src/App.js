@@ -13,7 +13,8 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>今天是2018年的3月2号</p>
+        <p>今天是2018年的3月2号,v_chfli添加了些东西</p>
+        
       </div>
     );
   }
